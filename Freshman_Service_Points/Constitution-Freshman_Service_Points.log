@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  3 FEB 2013 09:09
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  8 FEB 2013 12:23
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -265,15 +265,15 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
-* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=430.00462pt
-* \textheight=556.47656pt
-* \oddsidemargin=1.44614pt
-* \evensidemargin=38.30426pt
-* \topmargin=1.12738pt
+* \textwidth=542.02501pt
+* \textheight=722.7pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-58.135pt
 * \headheight=8.0pt
 * \headsep=14.0pt
 * \topskip=10.0pt
@@ -307,30 +307,27 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 Missing character: There is no Ò in font cmr10!
 Missing character: There is no Ó in font cmr10!
+ [1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2] (./Constitution-Freshman_Service_Points.aux)
 
-Overfull \hbox (2.67004pt too wide) in paragraph at lines 38--41
-\OT1/cmr/m/n/10.95 Hous-ton, Amer-i-can, or world-wide com-mu-ni-ties is en-cou
-r-aged but will not be counted
- []
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-[1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./Constitution-Freshman_Service_Points.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
  3411 strings out of 493633
  44984 string characters out of 3143378
- 108158 words of memory out of 3000000
+ 110146 words of memory out of 3000000
  6509 multiletter control sequences out of 15000+200000
  11087 words of font info for 43 fonts, out of 3000000 for 9000
  992 hyphenation exceptions out of 8191
- 42i,5n,31p,373b,245s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2011/texmf
--dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2011/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2011/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Constitution-Freshman_Service_Points.pdf (2 pages, 74845 byte
+ 42i,5n,32p,386b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/l
+ocal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Constitution-Freshman_Service_Points.pdf (2 pages, 74653 byte
 s).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
