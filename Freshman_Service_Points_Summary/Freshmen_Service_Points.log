@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  9 FEB 2013 10:10
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  9 FEB 2013 09:24
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**dunc_gov_temp.tex
-(./dunc_gov_temp.tex
+**Freshmen_Service_Points.tex
+(./Freshmen_Service_Points.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
@@ -232,8 +232,8 @@ Package: paralist 2002/03/18 v2.3b Extended list environments (BS)
 \plparsep=\skip54
 \pl@lab=\toks27
 )
-(./dunc_gov_temp.aux)
-\openout1 = `dunc_gov_temp.aux'.
+(./Freshmen_Service_Points.aux)
+\openout1 = `Freshmen_Service_Points.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -307,26 +307,27 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 Missing character: There is no Õ in font cmr10!
 Missing character: There is no Õ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no Õ in font cmr10!
  [1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./dunc_gov_temp.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(./Freshmen_Service_Points.aux) ) 
 Here is how much of TeX's memory you used:
- 3398 strings out of 493633
- 44614 string characters out of 3143378
- 111166 words of memory out of 3000000
- 6499 multiletter control sequences out of 15000+200000
- 8595 words of font info for 33 fonts, out of 3000000 for 9000
+ 3408 strings out of 493633
+ 44836 string characters out of 3143378
+ 110202 words of memory out of 3000000
+ 6507 multiletter control sequences out of 15000+200000
+ 10786 words of font info for 42 fonts, out of 3000000 for 9000
  992 hyphenation exceptions out of 8191
- 42i,4n,32p,363b,192s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
-r/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on dunc_gov_temp.pdf (1 page, 63169 bytes).
+ 42i,4n,32p,373b,197s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb>
+Output written on Freshmen_Service_Points.pdf (1 page, 60927 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
