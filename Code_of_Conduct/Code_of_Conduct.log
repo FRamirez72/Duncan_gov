@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  8 FEB 2013 16:00
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  10 FEB 2013 18:47
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -221,47 +221,53 @@ LaTeX Font Info:    ... okay on input line 16.
 \MPnumerator=\count95
 \makeMPintoPDFobject=\count96
 \everyMPtoPDFconversion=\toks19
-)
-LaTeX Font Info:    Try loading font information for U+msa on input line 17.
- (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+) [1
+
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 
 (/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-Missing character: There is no Ô in font cmbx12!
-Missing character: There is no Õ in font cmbx12!
+Missing character: There is no ï in font cmbx12!
+Missing character: There is no ¿ in font cmbx12!
+Missing character: There is no ½ in font cmbx12!
+Missing character: There is no ï in font cmbx12!
+Missing character: There is no ¿ in font cmbx12!
+Missing character: There is no ½ in font cmbx12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--39
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
 
  []
 
-[1
-
-{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
+[2] [3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 68.
  (/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
- [3]
-Missing character: There is no Õ in font cmbx12!
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+ [4]
+Missing character: There is no ï in font cmbx12!
+Missing character: There is no ¿ in font cmbx12!
+Missing character: There is no ½ in font cmbx12!
 
-Overfull \hbox (2.51779pt too wide) in paragraph at lines 81--81
+Overfull \hbox (2.51779pt too wide) in paragraph at lines 82--82
 []\OT1/cmr/bx/n/14.4 None shall set any unau-tho-rized fires in the Col-lege or
  on Col-lege grounds. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--91
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
 
  []
 
-[4] [5] (./Code_of_Conduct.aux) ) 
+[5] [6] (./Code_of_Conduct.aux) ) 
 Here is how much of TeX's memory you used:
  2369 strings out of 493633
  33501 string characters out of 3143378
@@ -276,10 +282,10 @@ Here is how much of TeX's memory you used:
 ublic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb>
-Output written on Code_of_Conduct.pdf (5 pages, 77337 bytes).
+Output written on Code_of_Conduct.pdf (6 pages, 77826 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
